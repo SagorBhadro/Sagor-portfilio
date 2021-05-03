@@ -49,15 +49,11 @@ const about = {
 const works = {
   heading: "Recent Works",
   works: [
-    { title: "design-1", img: require("../assets/img/works/1.jpg") },
-    { title: "design-2", img: require("../assets/img/works/2.jpg") },
-    { title: "design-3", img: require("../assets/img/works/3.jpg") },
-    { title: "design-4", img: require("../assets/img/works/4.jpg") },
-    { title: "design-5", img: require("../assets/img/works/5.jpg") },
-    { title: "design-6", img: require("../assets/img/works/6.jpg") },
-    { title: "design-7", img: require("../assets/img/works/7.jpg") },
-    { title: "design-8", img: require("../assets/img/works/8.jpg") },
-    { title: "design-9", img: require("../assets/img/works/9.jpg") }
+    { title: "All-service-related", live:"https://indicate-design.web.app/", github:" ", img: require("../assets/img/works/1.JPG") },
+    { title: "penguin-fashion", live:"https://sagorbhadro.github.io/assignment-2/index.html",github:" https://github.com/SagorBhadro/assignment-2", img: require("../assets/img/works/2.JPG") },
+    { title: "Rokomary-book", live:" ", github:"https://github.com/SagorBhadro/rokomary-book", img: require("../assets/img/works/3.JPG") },
+    { title: "Raider-location", live:"https://mystifying-yonath-7e40b9.netlify.app/", github:"https://github.com/SagorBhadro/town-Uber-Rider", img: require("../assets/img/works/4.JPG") },
+    { title: "Soppin-related", live:" ", github:" ", img: require("../assets/img/works/5.JPG") }
   ]
 };
 

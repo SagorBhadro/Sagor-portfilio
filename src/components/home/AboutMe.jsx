@@ -52,13 +52,13 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
               <p className="lead text-center">
                 <a
                   className="btn btn-outline-dark btn-lg"
-                  href={resume}
+                  href="https://drive.google.com/file/d/1kusGWuhbV5ttZVSsTXikhmIb_6AXxdO7/edit"
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"
                   aria-label="Resume/CV"
                 >
-                  Resume
+                  Resume Dawnload
                 </a>
               </p>
             )}
